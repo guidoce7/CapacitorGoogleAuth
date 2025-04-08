@@ -11,7 +11,7 @@
     s.ios.deployment_target  = '12.0'
     s.dependency 'Capacitor'
     s.dependency 'GoogleSignIn', '7.0.0'
-    s.dependency 'GTMAppAuth'
+    s.dependency 'GTMAppAuth', '~> 2.1'
     s.dependency 'GTMSessionFetcher', '3.3.0'
     s.static_framework = true
   end
