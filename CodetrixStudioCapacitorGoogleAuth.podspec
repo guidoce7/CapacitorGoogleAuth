@@ -2,7 +2,7 @@
   Pod::Spec.new do |s|
     s.name = 'CodetrixStudioCapacitorGoogleAuth'
     s.version = '0.0.2'
-    s.source = { :git => 'https://github.com/tu-usuario/CapacitorGoogleAuth.git', :tag => '0.0.2' }
+    s.source = { :git => 'https://github.com/guidoce7/CapacitorGoogleAuth.git', :tag => '0.0.2' }
     s.summary = 'Google Auth plugin for capacitor.'
     s.license = 'MIT'
     s.homepage = 'https://github.com/CodetrixStudio/CapacitorGoogleAuth.git'
