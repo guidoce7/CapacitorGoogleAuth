@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'CodetrixStudioCapacitorGoogleAuth'
-  s.version = '0.0.4'
+  s.version = '0.0.5'
   s.summary = 'Google Auth plugin for Capacitor.'
   s.license = 'MIT'
   s.homepage = 'https://github.com/guidoce7/CapacitorGoogleAuth'
@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.dependency 'Capacitor'
   s.dependency 'GoogleSignIn', '7.0.0'
   s.dependency 'GTMAppAuth', '~> 1.1'
-  s.dependency 'GTMSessionFetcher', '3.3.0'
+  s.dependency 'GTMSessionFetcher', '~> 1.5'
   s.static_framework = true
 end
