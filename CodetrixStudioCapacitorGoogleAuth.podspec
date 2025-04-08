@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'CodetrixStudioCapacitorGoogleAuth'
-  s.version = '0.0.2'
+  s.version = '0.0.3'
   s.summary = 'Google Auth plugin for Capacitor.'
   s.license = 'MIT'
   s.homepage = 'https://github.com/guidoce7/CapacitorGoogleAuth'
